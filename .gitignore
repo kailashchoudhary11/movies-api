@@ -1,0 +1,5 @@
+api/__pycache__
+movies/__pycache__
+venv/
+.env
+db.sqlite3

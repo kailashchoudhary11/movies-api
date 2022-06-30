@@ -1,0 +1,5 @@
+Django>=3.2, <3.3
+python-dotenv
+djangorestframework
+requests
+django-jsonfield
